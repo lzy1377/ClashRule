@@ -5,6 +5,3 @@ PROCESS-NAME,clash-windows-amd64.exe
 PROCESS-NAME,hysteria-windows-amd64.exe
 PROCESS-NAME,sing-box.exe
 PROCESS-NAME,xray.exe
-
-DOMAIN-SUFFIX,myhug.cn
-DOMAIN-SUFFIX,jetbrains.com
