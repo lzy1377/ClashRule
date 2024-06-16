@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,pglstatp-toutiao.com
-DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-KEYWORD,pglstatp-toutiao
+DOMAIN-KEYWORD,zijieapi
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,frontier-toutiao.snssdk.com
 DOMAIN-SUFFIX,douyincdn.com
@@ -9,3 +9,4 @@ DOMAIN-SUFFIX,p1-lm.adkwai.com
 DOMAIN-SUFFIX,open.e.kuaishou.com
 DOMAIN-SUFFIX,dsp-x.jd.com
 DOMAIN-SUFFIX,xlog.jd.com
+DOMAIN-SUFFIX,ads5-normal-lq.zijieapi.com
