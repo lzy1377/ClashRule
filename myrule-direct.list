@@ -6,3 +6,4 @@ PROCESS-NAME,clash-windows-amd64.exe
 PROCESS-NAME,hysteria-windows-amd64.exe
 PROCESS-NAME,sing-box.exe
 PROCESS-NAME,xray.exe
+- DOMAIN-SUFFIX,api5-normal-sinfonlinea.fqnovel.com
