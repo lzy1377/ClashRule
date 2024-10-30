@@ -6,3 +6,10 @@ PROCESS-NAME,clash-windows-amd64.exe
 PROCESS-NAME,hysteria-windows-amd64.exe
 PROCESS-NAME,sing-box.exe
 PROCESS-NAME,xray.exe
+PROCESS-NAME,CFnat Windows GUI.exe
+PROCESS-NAME,cfnat-windows-amd64.exe
+PROCESS-NAME,cfnat-windows7-386.exe
+PROCESS-NAME,cfnat-windows7-amd64.exe
+PROCESS-NAME,cfnat-windows-386.exe
+PROCESS-NAME,cfnat-windows-arm.exe
+PROCESS-NAME,cfnat-windows-arm64.exe
