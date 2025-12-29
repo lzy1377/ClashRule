@@ -27,3 +27,4 @@ payload:
   - PROCESS-NAME,verge-mihomo.exe
   - PROCESS-NAME,xray.exe
   - PROCESS-NAME,cloudflared
+  - PROCESS-NAME,cloudflared.exe
