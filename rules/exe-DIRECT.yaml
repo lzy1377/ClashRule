@@ -1,0 +1,29 @@
+payload:
+  - PROCESS-NAME,A HUB.exe
+  - PROCESS-NAME,CFnat Windows GUI.exe
+  - PROCESS-NAME,Clash.Meta-windows-amd64-compatible.exe
+  - PROCESS-NAME,cfnat-windows-386.exe
+  - PROCESS-NAME,cfnat-windows-amd64.exe
+  - PROCESS-NAME,cfnat-windows-arm.exe
+  - PROCESS-NAME,cfnat-windows-arm64.exe
+  - PROCESS-NAME,cfnat-windows7-386.exe
+  - PROCESS-NAME,cfnat-windows7-amd64.exe
+  - PROCESS-NAME,clash-meta-alpha.exe
+  - PROCESS-NAME,clash-meta.exe
+  - PROCESS-NAME,clash-windows-amd64.exe
+  - PROCESS-NAME,cloudflared.exe
+  - DOMAIN-SUFFIX,natapp.cn
+  - PROCESS-NAME,natapp.exe
+  - PROCESS-NAME,ech-tunnel.exe
+  - PROCESS-NAME,ech-win.exe
+  - PROCESS-NAME,ech-workers.exe
+  - PROCESS-NAME,hysteria-windows-amd64.exe
+  - PROCESS-NAME,nekobox_core.exe
+  - PROCESS-NAME,nekoray.exe
+  - PROCESS-NAME,nekoray_core.exe
+  - PROCESS-NAME,sing-box.exe
+  - PROCESS-NAME,v2rayN.exe
+  - PROCESS-NAME,verge-mihomo-alpha.exe
+  - PROCESS-NAME,verge-mihomo.exe
+  - PROCESS-NAME,xray.exe
+  - PROCESS-NAME,cloudflared
