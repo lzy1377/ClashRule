@@ -28,3 +28,4 @@ payload:
   - PROCESS-NAME,xray.exe
   - PROCESS-NAME,cloudflared
   - PROCESS-NAME,cloudflared.exe
+  - PROCESS-NAME,ech-android-arm64
