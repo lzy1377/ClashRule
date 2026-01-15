@@ -15,3 +15,4 @@ payload:
   - DOMAIN-SUFFIX,docker.lzy1377.us.kg
   - DOMAIN-SUFFIX,clash.lzy1377.us.kg
   - DOMAIN-SUFFIX,warden.lzy1377.us.kg
+  - DOMAIN-SUFFIX,tunnel-zte.lzy1377.us.kg
