@@ -29,3 +29,4 @@ payload:
   - PROCESS-NAME,cloudflared
   - PROCESS-NAME,cloudflared.exe
   - PROCESS-NAME,ech-android-arm64
+  - PROCESS-NAME,Endfield.exe
