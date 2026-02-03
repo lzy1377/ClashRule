@@ -31,3 +31,4 @@ payload:
   - PROCESS-NAME,ech-android-arm64
   - PROCESS-NAME,Endfield.exe
   - PROCESS-NAME,lucky_android
+  - PROCESS-NAME,easytier-gui.exe
