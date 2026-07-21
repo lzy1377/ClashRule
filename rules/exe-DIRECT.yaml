@@ -29,6 +29,5 @@ payload:
   - PROCESS-NAME,cloudflared
   - PROCESS-NAME,cloudflared.exe
   - PROCESS-NAME,ech-android-arm64
-  - PROCESS-NAME,Endfield.exe
   - PROCESS-NAME,lucky_android
   - PROCESS-NAME,easytier-gui.exe
