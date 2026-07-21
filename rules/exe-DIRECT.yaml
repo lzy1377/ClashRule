@@ -27,6 +27,7 @@ payload:
   - PROCESS-NAME,verge-mihomo.exe
   - PROCESS-NAME,xray.exe
   - PROCESS-NAME,cloudflared
+  - PROCESS-NAME,Endfield.exe
   - PROCESS-NAME,cloudflared.exe
   - PROCESS-NAME,ech-android-arm64
   - PROCESS-NAME,lucky_android
